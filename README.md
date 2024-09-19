@@ -5,6 +5,7 @@
   <details open>
 <summary>About Me!!!</summary>
 * I know С++, C#, Python(Discord.py for Creating Bots Developer), Ren'py, Java, Inno Setup, NSIS, GoLang, Rust, HTML, CSS+SCSS...
+    
 * I'm RiritoXXL aka Ririto Ninigaya!!!
 
 </details>
