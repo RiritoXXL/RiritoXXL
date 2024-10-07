@@ -9,4 +9,4 @@ I know С++, C#, Python(Discord.py for Creating Bots), Ren'py, Java, AutoHotkey(
 
 ## Donation
 
-**Soon!!!**
+[Patreon](https://patreon.com/riritoninigaya)
