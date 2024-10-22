@@ -7,6 +7,10 @@ I know С++, C#, Python(Discord.py for Creating Bots), Ren'py, Java, AutoHotkey(
 
 </details>
 
+## Learning Programming Language
+
+SystemVerilog, Verilog and Assembler for Education Purposal!!!
+
 ## Donation
 
 [Patreon](https://patreon.com/riritoninigaya)
