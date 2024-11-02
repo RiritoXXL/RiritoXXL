@@ -7,7 +7,7 @@ I know С++, C#, Python(Discord.py for Creating Bots), Ren'py, Java, AutoHotkey(
 
 </details>
 
-## My Current Job!!!
+## My Current Language(Favourite)!!!
 
 ![IMG](https://img.shields.io/badge/programmer%20at%20CPP-red?style=for-the-badge&logo=cplusplus)
 ## Learning Programming Language
