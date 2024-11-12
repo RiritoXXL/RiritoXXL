@@ -9,7 +9,7 @@ I know С++, C#, Python(Discord.py for Creating Bots), Ren'py, Java, AutoHotkey(
 
 ## Learning Programming Language
 
-SystemVerilog, Verilog and Assembler for Educational Purposal!!!
+SystemVerilog, Verilog, Tcl and Assembler for Educational Purposal!!!
 
 ## Donation
 
